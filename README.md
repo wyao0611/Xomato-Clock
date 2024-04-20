@@ -1,6 +1,7 @@
 # Xomato-Clock
 一款AR番茄钟
 ![app log](https://github.com/wyao0611/Xomato-Clock/blob/main/Assets/image/starlog.png)
+#### app图标
 ## 使用*unity*开发的一款基于*iOS*系统的*AR*软件，是一个以乙游男主为主角的陪伴番茄钟。
 
 
