@@ -8,6 +8,7 @@
 ![渲染效果图](https://github.com/wyao0611/Xomato-Clock/blob/main/Assets/image/1.png)
 
 ## 使用*unity*开发的一款基于*iOS*系统的*AR*软件，是一个以乙游男主为主角的陪伴番茄钟。
+[ios](https://img.shields.io/badge/suppot-IOS-green)
 
 
 ## Released
